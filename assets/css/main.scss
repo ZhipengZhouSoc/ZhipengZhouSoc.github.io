@@ -23,3 +23,177 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+
+/* =========================================================
+   About page – social icons at bottom ONLY
+   Safe: does NOT affect navbar
+   ========================================================= */
+
+// /* Container positioning */
+// .post article .social {
+//   margin-top: 1.5rem;
+//   margin-bottom: 0.2rem;
+//   text-align: left;     /* change to left if desired */
+// }
+
+// /* Icon links */
+// .post article .social a {
+//   display: inline-flex;
+//   align-items: center;
+//   justify-content: center;
+//   margin: 0 0.1rem;
+//   text-decoration: none;
+// }
+
+// /* Icon size + color */
+// .post article .social i {
+//   font-size: 8rem;     /* 🔴 MAIN SIZE CONTROL */
+//   line-height: 1;
+//   color: #777;
+//   opacity: 1.2;
+//   transition: transform 0.15s ease, opacity 0.15s ease;
+// }
+
+// /* Hover polish */
+// .post article .social a:hover i {
+//   opacity: 1;
+//   transform: translateY(-1px);
+// }
+
+
+/* Navbar social icons — top white band ONLY */
+.navbar-social {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.navbar-social i {
+  font-size: 1.15rem;   /* 🔴 adjust icon size here */
+  opacity: 0.85;
+  color: #777;
+  margin-top: 0.5rem;
+  margin-bottom: 0.2rem;
+}
+
+.navbar-social a:hover i {
+  opacity: 1;
+}
+
+.navbar .navbar-social {
+  margin-right: 1.5rem;  /* ← adjust this value */
+}
+
+
+/* About page: contact note text */
+.post .contact-note {
+  font-size: 0.95rem;   /* try 0.85–1.0rem */
+  line-height: 1.5;
+  color: #999;         /* slightly lighter than body text */
+  margin-top: 0.5rem; /* spacing below icons */
+  text-align: left;
+}
+
+
+/* Hide site title text in navbar, keep spacing */
+.navbar .navbar-brand.title {
+  display: none;
+}
+
+
+/* set up the preview-cv in cv_new.md*/
+/* Desktop behavior (unchanged) */
+.cv-preview {
+  width: 100%;
+  height: 90vh;
+  border: 1px solid #ddd;
+}
+
+.cv-preview iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Mobile: disable iframe preview */
+@media (max-width: 768px) {
+  .cv-preview {
+    height: 120vh;
+    display: block;
+  }
+
+  .cv-link {
+    font-size: 1.1rem;
+    margin-top: 1.5rem;
+  }
+}
+
+
+/* Hide ONLY the CV page title */
+.cv-content ~ .post-header h1.post-title {
+  display: none;
+}
+
+/* Force journal links (italicized links) to use accent color */
+a.journal {
+  color: var(--global-theme-color);
+}
+
+
+/* Add space before main About text (Welcome paragraph only) */
+.page-about article > p:first-of-type {
+  margin-top: 3.5rem;
+  margin-bottom: -0.85rem;
+}
+
+/* Move profile headshot slightly downward on About page */
+.page-about .profile {
+  margin-top: 3rem;   /* adjust value as needed */
+}
+
+
+
+/* Inline news text size */
+.news-item,
+.news table,
+.news td {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Make page titles respect capitalization */
+.post-title {
+  text-transform: none;
+}
+
+.news-title {
+  font-family: inherit;
+  font-size: 1.2rem;
+}
+
+/* Capitalize News header ONLY in announcements section */
+.news h2 {
+  text-transform: capitalize;
+}
+
+
+/* Global page title size */
+.post-title {
+  font-size: 2rem;   /* adjust to taste: 2.6–3.2rem is typical */
+  line-height: 1.2;
+  font-weight: 330;   /* optional: cleaner academic look */
+}
+
+/*publication record: colored my name*/
+/* Highlight self author in publication list */
+.author a.self-author {
+  color: var(--global-theme-color) !important;
+  font-weight: 350;
+  text-decoration: none;
+}
+
+.author a.self-author:hover {
+  text-decoration: underline;
+}

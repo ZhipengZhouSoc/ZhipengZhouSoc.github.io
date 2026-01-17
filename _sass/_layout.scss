@@ -6,6 +6,8 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-size: 1.1rem;   // ← increase slightly (try 1.05–1.1)
+  line-height: 1.6;
 
   h1,
   h2,
@@ -19,7 +21,7 @@ body {
 
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
-  padding-top: 57px;
+  padding-top: 56px;
 }
 
 body.sticky-bottom-footer {
@@ -51,3 +53,140 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+
+.post h2:first-of-type {
+  margin-top: 7rem;
+}
+
+
+
+/******************************************************************************
+ * Teaching page: collapsible course descriptions
+ ******************************************************************************/
+.university-title {
+  font-weight: 330;
+  font-size: 1.6rem;
+  margin-top: 5rem;
+  margin-bottom: 0.5rem;
+}
+
+.institution-note {
+  font-size: 1.15rem;
+  font-style: italic;
+  margin-top: -0.5rem;
+  margin-bottom: 0.25rem;
+  margin-left: 1.5rem;
+
+}
+
+/******************************************************************************
+ * Teaching page: course description toggle
+ ******************************************************************************/
+.course-entry {
+  margin-top: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.course-title {
+  font-size: 1.2rem;
+  font-weight: 330;
+  cursor: pointer;
+  list-style: none;
+  text-decoration: none;
+  margin-left: 1.8rem;
+}
+
+.course-title::-webkit-details-marker {
+  display: none;
+}
+
+.course-title:hover {
+  opacity: 0.85;
+}
+
+.course-details[open] .course-title {
+  margin-bottom: 0.4rem;
+}
+
+.course-description {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: var(--global-text-color-light);
+  margin-left: 1.8rem;
+}
+
+.course-title::after {
+  content: " ▾";
+  font-size: 1rem;
+  opacity: 0.8;
+}
+
+.course-details[open] .course-title::after {
+  content: " ▴";
+  font-size: 1.2rem;
+  opacity: 0.8;
+}
+
+
+
+/******************************************************************************
+ * Teaching page: selected evaluations
+ ******************************************************************************/
+.teaching-quotes-title {
+  margin-top: -0.8rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+.teaching-quotes {
+  list-style: disc;
+  padding-left: 2rem;
+}
+
+.teaching-quotes li {
+  font-style: italic;
+  font-size: 1.12rem;
+  margin-left: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  color: var(--global-text-color-light);
+  font-weight: 300;
+
+}
+
+/******************************************************************************
+ * indent paragraph
+ ******************************************************************************/
+.indented-paragraph {
+  margin-left: 1.95rem;   /* left indent */
+  margin-top: -0.25rem;
+  margin-bottom: 7rem;
+  line-height: 1.6;
+  font-size: 1.15rem;
+}
+
+
+.indented-paragraph1 {
+  margin-left: 1.95rem;   /* left indent */
+  margin-top: -0.25rem;
+  margin-bottom: 6rem;
+  line-height: 1.6;
+  font-size: 1.15rem;
+}
+
+h1 + .indented-paragraph1,
+h2 + .indented-paragraph1 {
+  margin-top: 2rem;
+}
+
+
+.lead-sentence {
+  display: block;
+  font-style: italic; 
+  font-weight: 350;
+  font-size: 1.2rem;
+  margin-bottom: 0.75rem;
+  margin-top: 1.25rem;
+}
