@@ -5,6 +5,8 @@ permalink: /teaching/mentoring
 nav: false
 ---
 
+<br>
+
 
 <ul class="teaching-quotes">
   <li>“… Zhipeng guided me to refine broad interests into precise research questions while never narrowing the scope prematurely… Whether we were refining research questions, discussing methodological choices, or wrestling with how to interpret what I was hearing in the field, he always knew how to prompt my thinking by asking the exact questions. Between meetings, he gave me a simple task to think about, write, or complete to help me stay on course.”</li>
