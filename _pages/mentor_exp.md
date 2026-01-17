@@ -13,3 +13,4 @@ nav: false
 
   <li>“Through this experience, I came to understand how rigorous social science research can reveal the social foundations of phenomena that may initially appear individual in nature—what I first approached as questions about personal relationships and psychological dynamics between foreign domestic workers and expatriate families…”</li>
 </ul>
+
