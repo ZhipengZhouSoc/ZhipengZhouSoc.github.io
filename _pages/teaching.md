@@ -100,10 +100,10 @@ nav_order: 3
 
 <ul class="teaching-quotes">
   <li>“Very friendly and passionate/knowledgeable about the topic.”</li>
-  <li>“Zhipeng is very helpful and enthusiastic about teaching sociology material. He really wants everyone to do well and understand the material.”</li>
-  <li>“He always had slides prepared, which I found extremely helpful when we were reviewing content from the lecture. He was lighthearted and a good person to be around. Even when I emailed him about questions, he was very fast when responding and helped me when rescheduling my makeup exam.”</li>
-  <li>“The section solidified my understanding of materials taught in lectures and provided the opportunity for me to ask any lingering questions. The TA fostered a welcoming environment for me to ask questions and always showed willingness to support students outside of sections.”</li>
-  <li>“Zhipeng Zhou was amazing, and you could tell that he was passionate about his job. He shared great insight into the topics discussed in class and helped to review all concepts for the exams. I was very happy with the discussion section, as I felt like we actually reviewed the material and collaborated versus just another lecture about the class.”</li>
+  <li>“Very helpful and enthusiastic about teaching sociology material. He really wants everyone to do well and understand the material.”</li>
+  <li>“He always had slides prepared, which I found extremely helpful when reviewing content from the lecture. He was very responsive to emails and helped reschedule my makeup exam.”</li>
+  <li>“The TA fostered a welcoming environment for me to ask questions and always showed willingness to support students outside of sections.”</li>
+  <li>“He was passionate about his job. I was very happy with the discussion section, as I felt like we actually reviewed the material and collaborated, rather than just another lecture about the class.”</li>
 </ul>
 
 
