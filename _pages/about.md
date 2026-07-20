@@ -44,7 +44,7 @@ My research examines how organizations negotiate, and families and individuals n
 
 One of my research projects revisits the relationship between employment precarity and earnings inequality and shows how this relationship has been embedded in institutional contexts amid China's transition to a market economy. This work received the <a href="https://lera.memberclicks.net/award-recipients-2025">2025 Best Graduate Student Paper Award</a> from the <a href="https://lera.memberclicks.net">Labor and Employment Relation Association (LERA)</a> and the <a href="https://sociology.cornell.edu/graduate-awards"> 2025 Robin M. Williams, Jr. Best Paper Award</a> from the <a href="https://sociology.cornell.edu/">Department of Sociology, Cornell University</a>. 
 
-My research has been supported by the <a href="https://einaudi.cornell.edu/programs/east-asia-program">East Asia Program (EAP), Cornell University</a>. My previous work has been published in journals including <a class="journal" href="https://doi.org/10.1177/23780231241276332"> <i>Socius</i></a>, <a class="journal" href="https://doi.org/10.1016/j.asieco.2025.102059"> <i>Journal of Asian Economics</i></a>, etc.
+My research has been supported by the <a href="https://einaudi.cornell.edu/programs/east-asia-program">East Asia Program (EAP), Cornell University</a>. My previous work has been published in journals including <a class="journal" href="https://doi.org/10.1093/sf/soag087"> <i>Social Forces</i></a>, <a class="journal" href="https://doi.org/10.1177/23780231241276332"> <i>Socius</i></a>, <a class="journal" href="https://doi.org/10.1016/j.asieco.2025.102059"> <i>Journal of Asian Economics</i></a>, etc.
 
 I would be glad to connect via email at <a href="">zz334@cornell.edu</a>.
 
