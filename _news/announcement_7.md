@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My solo-authored paper, “Job Precarity and Earnings Inequality in Contemporary China,” has been published online in <a href="https://doi.org/10.1093/sf/soag087"><em>Social Forces</em></a>. 🎉🎉🎉
+My solo-authored paper, “Job Precarity and Earnings Inequality in Contemporary China,” has been published online in <a href="https://doi.org/10.1093/sf/soag087" target="_blank" rel="noopener noreferrer">Social Forces</a>.  🎉🎉🎉
