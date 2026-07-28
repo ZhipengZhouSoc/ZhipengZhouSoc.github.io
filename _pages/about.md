@@ -13,7 +13,7 @@ profile:
   align: right
   image: 3_professional.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
+  # more_info: > 
   #   <p>364 Uris Hall</p>
   #   <p>109 Tower Rd, Ithaca, NY</p>
   #   <p>zz334@cornell.edu</p>
