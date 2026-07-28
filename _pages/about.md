@@ -11,7 +11,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 3_professional.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>364 Uris Hall</p>
