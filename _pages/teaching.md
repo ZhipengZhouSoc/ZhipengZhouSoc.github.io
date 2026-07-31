@@ -13,10 +13,9 @@ nav_order: 3
   </span>
 
   <p>
-  As a sociologist by training, I approach teaching as a reciprocal process of learning and knowledge transmission that ties individual self-fulfillment to the well-being of the broader community. This philosophy aligns with the founding premise of sociology: society is not a mechanical aggregation of individuals but an organic whole expressed in various forms that influences our work in organizations, life in families and other social domains. This interdependence in the modern world foregrounds social inequalities and differences. My teaching aims to equip students with theoretical perspectives and methodological tools that empower them to become aware of what they already believe in their own lives and how these beliefs may sometimes obscure the deeper forms of interdependence that actually matters. I believe that intentional course design and an inclusive classroom environment can foster students’ reflexivity, sense of relevance, and thoughtful engagement with the broader communities.
+  I have extensive experience teaching and mentoring undergraduate and high school students. My goal is to help students understand how their everyday experiences, opportunities, and beliefs are shaped by broader social structures, organizations, and institutions. Whether teaching courses in sociology or mentoring students in research, I strive to create an inclusive and engaging learning environment that encourages intellectual curiosity, critical thinking, and meaningful connections between sociological concepts and students' own lives.
  </p> 
 </div>
-
 
 
 
