@@ -49,6 +49,6 @@ I study the changing nature of work and how it affects patterns of economic ineq
 My research has been supported by the <a href="https://inequality.cornell.edu">Center for the Study of Inequality (CSI), Cornell University</a>, and the <a href="https://einaudi.cornell.edu/programs/east-asia-program">East Asia Program (EAP), Cornell University</a>. My work received the <a href="https://lera.memberclicks.net/award-recipients-2025">2025 Best Graduate Student Paper Award</a> from the <a href="https://lera.memberclicks.net">Labor and Employment Relation Association (LERA)</a> and the <a href="https://sociology.cornell.edu/graduate-awards"> 2025 Robin M. Williams, Jr. Best Paper Award</a> from the <a href="https://sociology.cornell.edu/">Department of Sociology, Cornell University</a>. It has been published in journals including <a class="journal" href="https://doi.org/10.1093/sf/soag087"> <i>Social Forces</i></a>, <a class="journal" href="https://doi.org/10.1177/23780231241276332"> <i>Socius</i></a>, <a class="journal" href="https://doi.org/10.1016/j.asieco.2025.102059"> <i>Journal of Asian Economics</i></a>.
 
 
-I would be glad to connect via email at zz334 at cornell dot edu.
+I would be glad to connect via email at zz334 [at] cornell [dot] edu.
 
 
